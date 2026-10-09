@@ -3,7 +3,7 @@ DormDish is an interactive AI web app that teaches college students how to plan 
 ## Team
 - Ethan - project lead, UI shell, deployment
 - [Name 2] - constraints form, meal builder, cost calculator
-- [Name 3] - sequencing activity, cook-along, doneness checks
+- Hannah - sequencing activity, cook-along, doneness checks
 - [Name 4] - AI coach, grader, and safety prompts
 ## Course
 Teach-a-Skill Tool team project, due Dec 11, 2026
